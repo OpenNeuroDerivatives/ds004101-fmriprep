@@ -1,6 +1,0 @@
-Warning: Permanently added 'c137-041' (ECDSA) to the list of known hosts.
-WARNING (02/21/24 23:14:19): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.6123105.hostlist.kg3852M1 to get hosts
-starting job on c137-041
-starting job on c137-042
-starting job on c137-043
